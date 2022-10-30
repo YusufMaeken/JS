@@ -112,6 +112,10 @@ main {
     margin: 1rem;
 }
 
+#tasks .task .content{
+    flex: 1;
+}
+
 #tasks .task .content .text {
     color: var(--light);
     font-size: 1.125rem;
